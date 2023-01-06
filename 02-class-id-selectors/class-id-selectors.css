@@ -1,0 +1,18 @@
+.odd {
+background-color:#ffb6c1;
+font-family: sans-serif
+}
+
+.change-font-size{
+    font-size: 24px;
+}
+#Element2 {
+    color:#0000FF;
+    font-size: 36px;
+}
+
+#Element4 {
+    color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
